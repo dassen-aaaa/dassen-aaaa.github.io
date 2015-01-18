@@ -3,9 +3,6 @@ layout: post
 title: the forth post
 ---
 
-There is a third post written with Textile,
-but it does not appear. Something is wrong. 
-
 Folowings are mark-upped with MD.
 
 # Introduction
@@ -24,3 +21,15 @@ This post is intended for xxx.
 
 # Conclusion
 
+Code:
+  int main(int argc, char** argv){
+    for(int i=0; i<10; ++i){
+       printf("piyo");
+    }
+    return 0;
+  }
+  
+Code:
+   def main():
+     for i in range(10):
+        print "piyo
