@@ -36,3 +36,10 @@ Code:
     def main():
         for i in range(10):
             print "piyo
+
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
