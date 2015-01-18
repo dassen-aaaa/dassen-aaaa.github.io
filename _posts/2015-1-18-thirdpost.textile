@@ -1,0 +1,21 @@
+---
+layout: post
+title: the third post
+---
+
+It is mark-upped with Textile.
+
+h1. This is the h1 element.
+h2. This is the h2 element.
+
+
+=== Personal Strengths ===
+* Section 1
+* Section 2
+** Section 2.1
+** Section 2.2
+*** Section 2.2.1
+
+@int main(int argc, char** argv){ return 0; }@
+
+
