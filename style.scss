@@ -46,8 +46,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  color: red;
-  text-decoration:underline;
+  //color: red;
+  //text-decoration:underline;
 
   a {
     color: inherit;
@@ -246,7 +246,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 3px solid $lightGray;
 }
 
 .posts > .post:last-child {
