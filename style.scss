@@ -246,7 +246,8 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 3px solid $lightGray;
+  // border-bottom: 3px solid $lightGray;
+  border-bottom: 2px solid $darkslategray;
 }
 
 .posts > .post:last-child {
