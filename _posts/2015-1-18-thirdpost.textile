@@ -17,10 +17,8 @@ h2. This is the h2 element.
 ** Section 2.2
 *** Section 2.2.1
 
-@
-int main(int argc, char** argv){ 
+@int main(int argc, char** argv){ 
     return 0;
-}
-@
+}@
 
 
