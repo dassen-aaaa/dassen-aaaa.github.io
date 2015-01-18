@@ -5,24 +5,24 @@ title: the forth post
 
 Folowings are mark-upped with MD.
 
-# Introduction
+## Introduction
 This post is intended for xxx.
 
-# Related Studies
+## Related Studies
 We review previous studies in 
 two related fields.
 
-## A note on research field #1
-## A note on research field #2
+### A note on research field #1
+### A note on research field #2
 
-# Theory
+## Theory
 
-# Experiments
-## Setup
-## Result #1
-## Result #2
+## Experiments
+### Setup
+### Result #1
+### Result #2
 
-# Conclusion
+## Conclusion
 
 Code:
     int main(int argc, char** argv){
